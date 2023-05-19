@@ -18,7 +18,6 @@ int main(int argc, char *argv[]) {
     // Create neural network object
     
     Net net;
-    
     // Prediction of samples using neural network
     // const vector<Sample> testDataSet = Utils::getTestData("data/testdata.txt");
     vector<double> buffer ={1.5,4.4};
